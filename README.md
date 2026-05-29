@@ -1,4 +1,4 @@
-## Project Title: AD 312 TaskManger with React State
+## Project Title: AD 312  Managing Test Blog Posts with TanStack Query
 #### By: Amde Wubshet
 
 ### Breif Description
